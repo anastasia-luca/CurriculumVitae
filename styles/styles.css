@@ -15,7 +15,7 @@ body {
 /* Sidebar Styles */
 
 .sidebar-section {
-    background-color: #DFEEFF;
+    background-color: #A6AA9A;
 }
 
 .sidebar-image {
@@ -44,7 +44,7 @@ body {
 }
 
 .contacts-phone {
-    color: #4489FF;
+    color: #161D2A;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -54,7 +54,7 @@ body {
 }
 
 .contacts-email {
-    color: #4489FF;
+    color: #161D2A;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -199,7 +199,7 @@ body {
 }
 
 .company-info {
-    color: #6096FF;
+    color: #737963;
     margin-left: 10px;
 }
 
@@ -242,7 +242,7 @@ body {
 }
 
 .education-name {
-    color: #6096FF;
+    color: #737963;
     font-size: 16px;
     font-style: normal;
     font-weight: 700;
